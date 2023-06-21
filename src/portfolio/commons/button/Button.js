@@ -1,5 +1,5 @@
 import React from 'react';
-import './button.scss'
+import './button.scss';
 
 export const Button = ({btnName, btnClass, url}) => {
   const btnFullClass = `btn ${btnClass}`
