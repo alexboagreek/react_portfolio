@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/alexboagreek/react_portfolio/static/css/main.6cb1f153.css",
+    "main.js": "/alexboagreek/react_portfolio/static/js/main.82f890ef.js",
+    "static/js/787.86e70ff7.chunk.js": "/alexboagreek/react_portfolio/static/js/787.86e70ff7.chunk.js",
+    "static/media/javascripcher.jpg": "/alexboagreek/react_portfolio/static/media/javascripcher.b9f02e0cc3fad4cc69bf.jpg",
+    "static/media/javascripcher_js.jpg": "/alexboagreek/react_portfolio/static/media/javascripcher_js.b9f02e0cc3fad4cc69bf.jpg",
+    "static/media/ant-design.png": "/alexboagreek/react_portfolio/static/media/ant-design.3d2d0cea9a3070cab93d.png",
+    "static/media/axios.png": "/alexboagreek/react_portfolio/static/media/axios.6780c8c04132596f96e2.png",
+    "static/media/logos_react.png": "/alexboagreek/react_portfolio/static/media/logos_react.42c9a5c7c5e98758506f.png",
+    "index.html": "/alexboagreek/react_portfolio/index.html",
+    "main.6cb1f153.css.map": "/alexboagreek/react_portfolio/static/css/main.6cb1f153.css.map",
+    "main.82f890ef.js.map": "/alexboagreek/react_portfolio/static/js/main.82f890ef.js.map",
+    "787.86e70ff7.chunk.js.map": "/alexboagreek/react_portfolio/static/js/787.86e70ff7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cb1f153.css",
+    "static/js/main.82f890ef.js"
+  ]
+}
